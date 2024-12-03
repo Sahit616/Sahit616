@@ -1,4 +1,4 @@
-SAHA
+SAHA Clothing
 
 html_content = """
 <!DOCTYPE html>
