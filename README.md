@@ -1,4 +1,4 @@
-# Creating the structure for a multi-page clothing store website
+# Saha Clothing
 
 # Home Page (index.html)
 home_html = """
@@ -29,53 +29,23 @@ home_html = """
         <div class="products">
             <div class="product">
                 <img src="https://via.placeholder.com/150" alt="Product 1">
-                <h3>Product 1</h3>
-                <p>$20.00</p>
+                <h3>Flared pants</h3>
+                <p>$40.00</p>
             </div>
             <div class="product">
                 <img src="https://via.placeholder.com/150" alt="Product 2">
-                <h3>Product 2</h3>
-                <p>$25.00</p>
+                <h3>Pullover</h3>
+                <p>$45.00</p>
             </div>
-        </div>
-    </section>
-    <footer>
-        <p>&copy; 2024 Clothing Store. All rights reserved.</p>
-    </footer>
-</body>
-</html>
-"""
-
-# Shop Page (shop.html)
-shop_html = """
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shop - Clothing Store</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <h1>Shop Our Collection</h1>
-        <nav>
-            <a href="index.html">Home</a>
-            <a href="shop.html">Shop</a>
-            <a href="about.html">About</a>
-            <a href="contact.html">Contact</a>
-        </nav>
-    </header>
-    <section class="products">
         <div class="product">
             <img src="https://via.placeholder.com/150" alt="Product 1">
-            <h3>Product 1</h3>
-            <p>$20.00</p>
+            <h3>jeans</h3></h3>
+            <p>$50.00</p>
         </div>
         <div class="product">
             <img src="https://via.placeholder.com/150" alt="Product 2">
-            <h3>Product 2</h3>
-            <p>$25.00</p>
+            <h3>Hoodie</h3>
+            <p>$45.00</p>
         </div>
     </section>
     <footer>
