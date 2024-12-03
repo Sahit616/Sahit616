@@ -130,3 +130,10 @@ with open(file_path, "w") as file:
     file.write(html_content)
 
 file_path
+<link rel="stylesheet" href="style.css">
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+</nav>
+<button onclick="alert('Willkommen!')">Klicke mich</button>
